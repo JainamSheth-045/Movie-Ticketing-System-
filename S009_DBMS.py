@@ -40,7 +40,7 @@ def open_next():
 
 
 root = Tk()
-root.title("Insert User")
+root.title("Movie Ticketing System")
 root.geometry("350x300")
 
 Label(root, text="User ID").pack()
